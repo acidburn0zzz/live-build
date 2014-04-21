@@ -1,0 +1,1 @@
+Git Clone-url="http://dev-www.libreoffice.org/"
